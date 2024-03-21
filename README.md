@@ -1,1 +1,1 @@
-# hr-box.zalaris.de
+# events.zalaris.com
